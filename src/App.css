@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.display-box{
+  border: 2px solid black;
+  background: cornsilk;
+  width: 850px;
+  margin-left: 350px;
+}
+
+.list-elements{
+  padding: 5px;
+  color: darkcyan;
+  list-style: none;
+  margin-left: 40px;
+}
+
+h1{
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
