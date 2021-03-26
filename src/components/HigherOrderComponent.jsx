@@ -42,7 +42,7 @@ class HigherOrderComponent extends React.Component{
                         <li className="list-elements">
                             <span>Id: {user.id}</span>
                             <span>Name: {user.name}</span>
-                            {/* <span>User Type:{user.user_Type}</span> */}
+                            <span>User Type:{user.user_type}</span>
                         </li>
                     </React.Fragment>
                 )
