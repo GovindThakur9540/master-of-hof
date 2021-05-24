@@ -6,20 +6,25 @@
 
 .display-box{
   border: 2px solid black;
-  background: cornsilk;
-  width: 850px;
-  margin-left: 350px;
+  background: rgb(247, 246, 245);
+  width: 80%;
+  margin:auto;
+  padding: 10px;
+  height: auto;
 }
 
 .list-elements{
-  padding: 5px;
-  color: darkcyan;
+  display: flex;
+  justify-content: space-around;
   list-style: none;
-  margin-left: 40px;
 }
 
 h1{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
   text-align: center;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
